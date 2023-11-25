@@ -1,4 +1,5 @@
 **Guitar Fretboard Trainer App**, built with Plotly Dash, Python, html, and css.
+
 This is a tool designed to help improve your knowledge of the guitar fretboard.
 
 The app shows a guitar fretboard: some positions get highlighted randomly, and the user needs to guess the right notes.
